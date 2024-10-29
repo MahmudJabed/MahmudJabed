@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmud Jabed
+- 👋 Hi, I’m @MahmudJabed
 - 👀 I’m interested in ...Informatics
 - 🌱 I’m currently learning ...Czech Language
 - 💞️ I’m looking to collaborate on ...Czech Language
